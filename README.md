@@ -1,2 +1,13 @@
-# algoexpert
-Algoexpert practice for DSA
+# Algoexpert practice for DSA
+
+Questions Completed:
+
+- Easy
+    - Two Number Sum
+    - Validate Subsequence
+    - Sorted Squarred Array
+    - Tournament Winner
+    - Noc Constructible Change
+    - Transpose Matrix
+    - Minimum Waiting Time
+    - Class Photos 
