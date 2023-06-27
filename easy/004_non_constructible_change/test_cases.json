@@ -1,0 +1,68 @@
+{
+  "total_test_cases": 13,
+  
+  "test_case_1":{
+    "coins": [5, 7, 1, 1, 2, 3, 22],
+    "output": 20
+  },
+  
+  "test_case_2":{
+    "coins": [1, 1, 1, 1, 1],
+    "output": 6
+  },
+  
+  "test_case_3":{
+    "coins": [1, 5, 1, 1, 1, 10, 15, 20, 100],
+    "output": 55
+  },
+  
+  "test_case_4":{
+    "coins": [6, 4, 5, 1, 1, 8, 9],
+    "output": 3
+  },
+  
+  "test_case_5":{
+    "coins": [],
+    "output": 1
+  },
+  
+  "test_case_6":{
+    "coins": [87],
+    "output": 1
+  },
+  
+  "test_case_7":{
+    "coins": [5, 6, 1, 1, 2, 3, 4, 9],
+    "output": 32
+  },
+  
+  "test_case_8":{
+    "coins": [5, 6, 1, 1, 2, 3, 43],
+    "output": 19
+  },
+  
+  "test_case_9":{
+    "coins": [1, 1],
+    "output": 3
+  },
+  
+  "test_case_10":{
+    "coins": [2],
+    "output": 1
+  },
+  
+  "test_case_11":{
+    "coins": [1],
+    "output": 2
+  },
+  
+  "test_case_12":{
+    "coins": [109, 2000, 8765, 19, 18, 17, 16, 8, 1, 1, 2, 4],
+    "output": 87
+  },
+  
+  "test_case_13":{
+    "coins": [1, 2, 3, 4, 5, 6, 7],
+    "output": 29
+  }
+}
