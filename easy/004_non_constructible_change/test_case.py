@@ -14,8 +14,10 @@ for i in range(1,total_test_cases+1):
 	output = nonConstructibleChange(test_case["coins"])
 	print("Your solution is: {}".format(output))
 	print("The ground truth is: {}".format(test_case["output"]))
-	print("------------------------")
 	
 	total_test_cases_passed += 1 if output == test_case["output"] else 0
+	pf_str = "Passed" if output == test_case["output"] else "Failed"
+	print("Test case {}: {}".format(i, pf_str))
+	print("------------------------")
 
 print("{}/{} tests cases passed.".format(total_test_cases_passed,total_test_cases))
