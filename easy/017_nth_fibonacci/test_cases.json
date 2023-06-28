@@ -1,0 +1,93 @@
+{
+  "total_test_cases": 18,
+  
+  "test_case_1": {
+    "n": 6,
+    "output": 5
+  },
+  
+  "test_case_2": {
+    "n": 1,
+    "output": 0
+  },
+  
+  "test_case_3": {
+    "n": 2,
+    "output": 1
+  },
+  
+  "test_case_4": {
+    "n": 3,
+    "output": 1
+  },
+  
+  "test_case_5": {
+    "n": 4,
+    "output": 2
+  },
+  
+  "test_case_6": {
+    "n": 5,
+    "output": 3
+  },
+  
+  "test_case_7": {
+    "n": 7,
+    "output": 8
+  },
+  
+  "test_case_8": {
+    "n": 8,
+    "output": 13
+  },
+  
+  "test_case_9": {
+    "n": 9,
+    "output": 21
+  },
+  
+  "test_case_10": {
+    "n": 10,
+    "output": 34
+  },
+  
+  "test_case_11": {
+    "n": 11,
+    "output": 55
+  },
+  
+  "test_case_12": {
+    "n": 12,
+    "output": 89
+  },
+  
+  "test_case_13": {
+    "n": 13,
+    "output": 144
+  },
+  
+  "test_case_14": {
+    "n": 14,
+    "output": 233
+  },
+  
+  "test_case_15": {
+    "n": 15,
+    "output": 377
+  },
+  
+  "test_case_16": {
+    "n": 16,
+    "output": 610
+  },
+  
+  "test_case_17": {
+    "n": 17,
+    "output": 987
+  },
+  
+  "test_case_18": {
+    "n": 18,
+    "output": 1597
+  }
+}
