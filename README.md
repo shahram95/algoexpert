@@ -10,4 +10,8 @@ Questions Completed:
     - Noc Constructible Change
     - Transpose Matrix
     - Minimum Waiting Time
-    - Class Photos 
+    - Class Photos
+    - Tandem Bicycle
+    - Nth Fibonacci
+    - Product Sum
+    - Binary Search
