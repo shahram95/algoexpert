@@ -20,3 +20,4 @@ Questions Completed:
     - Run-Length Encoding
     - Semordnilap
     - First Non-Repeating Character
+    - Generate Document
