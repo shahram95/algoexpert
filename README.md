@@ -15,3 +15,4 @@ Questions Completed:
     - Nth Fibonacci
     - Product Sum
     - Binary Search
+    - Palindrome Check
