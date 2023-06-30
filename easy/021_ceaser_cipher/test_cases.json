@@ -1,0 +1,75 @@
+{
+  "total_test_cases": 12,
+  
+  "test_case_1":{
+    "string": "xyz",
+    "key": 2,
+    "output": "zab"
+  },
+  
+  "test_case_2":{
+    "string": "abc",
+    "key": 0,
+    "output": "abc"
+  },
+  
+  "test_case_3":{
+    "string": "abc",
+    "key": 3,
+    "output": "def"
+  },
+  
+  "test_case_4":{
+    "string": "xyz",
+    "key": 5,
+    "output": "cde"
+  },
+  
+  "test_case_5":{
+    "string": "abc",
+    "key": 26,
+    "output": "abc"
+  },
+  
+  "test_case_6":{
+    "string": "abc",
+    "key": 52,
+    "output": "abc"
+  },
+  
+  "test_case_7":{
+    "string": "abc",
+    "key": 57,
+    "output": "fgh"
+  },
+  
+  "test_case_8":{
+    "string": "xyz",
+    "key": 25,
+    "output": "wxy"
+  },
+  
+  "test_case_9":{
+    "string": "iwufqnkqkqoolxzzlzihqfm",
+    "key": 25,
+    "output": "hvtepmjpjpnnkwyykyhgpel"
+  },
+  
+  "test_case_10":{
+    "string": "ovmqkwtujqmfkao",
+    "key": 52,
+    "output": "ovmqkwtujqmfkao"
+  },
+  
+  "test_case_11":{
+    "string": "mvklahvjcnbwqvtutmfafkwiuagjkzmzwgf",
+    "key": 7,
+    "output": "tcrshocqjuidxcabatmhmrdpbhnqrgtgdnm"
+  },
+  
+  "test_case_12":{
+    "string": "kjwmntauvjjnmsagwgawkagfuaugjhawgnawgjhawjgawbfawghesh",
+    "key": 15,
+    "output": "zylbcipjkyycbhpvlvplzpvujpjvywplvcplvywplyvplquplvwthw"
+  }
+}
