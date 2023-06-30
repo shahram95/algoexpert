@@ -18,3 +18,4 @@ Questions Completed:
     - Palindrome Check
     - Ceaser Cipher Encryptor
     - Run-Length Encoding
+    - Semordnilap
