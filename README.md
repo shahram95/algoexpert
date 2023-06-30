@@ -19,3 +19,4 @@ Questions Completed:
     - Ceaser Cipher Encryptor
     - Run-Length Encoding
     - Semordnilap
+    - First Non-Repeating Character
