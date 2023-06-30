@@ -17,3 +17,4 @@ Questions Completed:
     - Binary Search
     - Palindrome Check
     - Ceaser Cipher Encryptor
+    - Run-Length Encoding
