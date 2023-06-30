@@ -1,0 +1,48 @@
+{
+  "total_test_cases": 9,
+  
+  "test_case_1":{
+    "string": "abcdcba",
+    "output": true
+  },
+  
+  "test_case_2":{
+    "string": "a",
+    "output": true
+  },
+  
+  "test_case_3":{
+    "string": "ab",
+    "output": false
+  },
+  
+  "test_case_4":{
+    "string": "aba",
+    "output": true
+  },
+  
+  "test_case_5":{
+    "string": "abb",
+    "output": false
+  },
+  
+  "test_case_6":{
+    "string": "abba",
+    "output": true
+  },
+  
+  "test_case_7":{
+    "string": "abcdefghhgfedcba",
+    "output": true
+  },
+  
+  "test_case_8":{
+    "string": "abcdefghihgfedcba",
+    "output": true
+  },
+  
+  "test_case_9":{
+    "string": "abcdefghihgfeddcba",
+    "output": false
+  }
+}
