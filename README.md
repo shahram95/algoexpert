@@ -21,3 +21,5 @@ Questions Completed:
     - Semordnilap
     - First Non-Repeating Character
     - Generate Document
+    - Common Characters
+    - Find Three Largest Numbers
