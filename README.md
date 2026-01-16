@@ -1,25 +1,6 @@
-# Algoexpert practice for DSA
+# Algoexpert practice for DSA 2026
 
 Questions Completed:
 
 - Easy
-    - Two Number Sum
-    - Validate Subsequence
-    - Sorted Squarred Array
-    - Tournament Winner
-    - Noc Constructible Change
-    - Transpose Matrix
-    - Minimum Waiting Time
-    - Class Photos
-    - Tandem Bicycle
-    - Nth Fibonacci
-    - Product Sum
-    - Binary Search
-    - Palindrome Check
-    - Ceaser Cipher Encryptor
-    - Run-Length Encoding
-    - Semordnilap
-    - First Non-Repeating Character
-    - Generate Document
-    - Common Characters
-    - Find Three Largest Numbers
+    
