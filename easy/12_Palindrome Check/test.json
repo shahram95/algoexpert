@@ -1,0 +1,38 @@
+[
+  {
+    "string": "abcdcba",
+    "expected": true
+  },
+  {
+    "string": "a",
+    "expected": true
+  },
+  {
+    "string": "ab",
+    "expected": false
+  },
+  {
+    "string": "aba",
+    "expected": true
+  },
+  {
+    "string": "abb",
+    "expected": false
+  },
+  {
+    "string": "abba",
+    "expected": true
+  },
+  {
+    "string": "abcdefghhgfedcba",
+    "expected": true
+  },
+  {
+    "string": "abcdefghihgfedcba",
+    "expected": true
+  },
+  {
+    "string": "abcdefghihgfeddcba",
+    "expected": false
+  }
+]
