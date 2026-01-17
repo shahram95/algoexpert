@@ -1,0 +1,62 @@
+[
+  {
+    "string": "xyz",
+    "key": 2,
+    "expected": "zab"
+  },
+  {
+    "string": "abc",
+    "key": 0,
+    "expected": "abc"
+  },
+  {
+    "string": "abc",
+    "key": 3,
+    "expected": "def"
+  },
+  {
+    "string": "xyz",
+    "key": 5,
+    "expected": "cde"
+  },
+  {
+    "string": "abc",
+    "key": 26,
+    "expected": "abc"
+  },
+  {
+    "string": "abc",
+    "key": 52,
+    "expected": "abc"
+  },
+  {
+    "string": "abc",
+    "key": 57,
+    "expected": "fgh"
+  },
+  {
+    "string": "xyz",
+    "key": 25,
+    "expected": "wxy"
+  },
+  {
+    "string": "iwufqnkqkqoolxzzlzihqfm",
+    "key": 25,
+    "expected": "hvtepmjpjpnnkwyykyhgpel"
+  },
+  {
+    "string": "ovmqkwtujqmfkao",
+    "key": 52,
+    "expected": "ovmqkwtujqmfkao"
+  },
+  {
+    "string": "mvklahvjcnbwqvtutmfafkwiuagjkzmzwgf",
+    "key": 7,
+    "expected": "tcrshocqjuidxcabatmhmrdpbhnqrgtgdnm"
+  },
+  {
+    "string": "kjwmntauvjjnmsagwgawkagfuaugjhawgnawgjhawjgawbfawghesh",
+    "key": 15,
+    "expected": "zylbcipjkyycbhpvlvplzpvujpjvywplvcplvywplyvplquplvwthw"
+  }
+]
