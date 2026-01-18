@@ -1,0 +1,42 @@
+[
+  {
+    "words": [],
+    "expected": []
+  },
+  {
+    "words": ["aaa", "bbbb"],
+    "expected": []
+  },
+  {
+    "words": ["dog", "god"],
+    "expected": [["dog", "god"]]
+  },
+  {
+    "words": ["dog", "hello", "god"],
+    "expected": [["dog", "god"]]
+  },
+  {
+    "words": ["dog", "desserts", "god", "stressed"],
+    "expected": [["dog", "god"], ["desserts", "stressed"]]
+  },
+  {
+    "words": ["dog", "hello", "desserts", "test", "god", "stressed"],
+    "expected": [["dog", "god"], ["desserts", "stressed"]]
+  },
+  {
+    "words": ["abcde", "edcba", "edbc", "edb", "cbde", "abc"],
+    "expected": [["abcde", "edcba"], ["edbc", "cbde"]]
+  },
+  {
+    "words": ["abcde", "bcd", "dcb", "edcba", "aaa"],
+    "expected": [["abcde", "edcba"], ["bcd", "dcb"]]
+  },
+  {
+    "words": ["abcdefghijk", "aaa", "hello", "racecar", "kjihgfedcba"],
+    "expected": [["abcdefghijk", "kjihgfedcba"]]
+  },
+  {
+    "words": ["liver", "dog", "hello", "desserts", "evil", "test", "god", "stressed", "racecar", "palindromes", "semordnilap", "abcd", "live"],
+    "expected": [["dog", "god"], ["desserts", "stressed"], ["evil", "live"], ["palindromes", "semordnilap"]]
+  }
+]
