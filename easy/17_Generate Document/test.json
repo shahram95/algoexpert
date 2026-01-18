@@ -1,0 +1,77 @@
+[
+  {
+    "characters": "Bste!hetsi ogEAxpelrt x ",
+    "document": "AlgoExpert is the Best!",
+    "expected": true
+  },
+  {
+    "characters": "A",
+    "document": "a",
+    "expected": false
+  },
+  {
+    "characters": "a",
+    "document": "a",
+    "expected": true
+  },
+  {
+    "characters": "a hsgalhsa sanbjksbdkjba kjx",
+    "document": "",
+    "expected": true
+  },
+  {
+    "characters": " ",
+    "document": "hello",
+    "expected": false
+  },
+  {
+    "characters": "     ",
+    "document": "     ",
+    "expected": true
+  },
+  {
+    "characters": "aheaollabbhb",
+    "document": "hello",
+    "expected": true
+  },
+  {
+    "characters": "aheaolabbhb",
+    "document": "hello",
+    "expected": false
+  },
+  {
+    "characters": "estssa",
+    "document": "testing",
+    "expected": false
+  },
+  {
+    "characters": "Bste!hetsi ogEAxpert",
+    "document": "AlgoExpert is the Best!",
+    "expected": false
+  },
+  {
+    "characters": "helloworld ",
+    "document": "hello wOrld",
+    "expected": false
+  },
+  {
+    "characters": "helloworldO",
+    "document": "hello wOrld",
+    "expected": false
+  },
+  {
+    "characters": "helloworldO ",
+    "document": "hello wOrld",
+    "expected": true
+  },
+  {
+    "characters": "&*&you^a%^&8766 _=-09     docanCMakemthisdocument",
+    "document": "Can you make this document &",
+    "expected": true
+  },
+  {
+    "characters": "abcabcabcacbcdaabc",
+    "document": "bacaccadac",
+    "expected": true
+  }
+]
