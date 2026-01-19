@@ -1,0 +1,42 @@
+[
+  {
+    "strings": ["abc", "bcd", "cbad"],
+    "expected": ["b", "c"]
+  },
+  {
+    "strings": ["a"],
+    "expected": ["a"]
+  },
+  {
+    "strings": ["a", "b", "c"],
+    "expected": []
+  },
+  {
+    "strings": ["aa", "aa"],
+    "expected": ["a"]
+  },
+  {
+    "strings": ["aaaa", "a"],
+    "expected": ["a"]
+  },
+  {
+    "strings": ["abcde", "aa", "foobar", "foobaz", "and this is a string", "aaaaaaaa", "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeea"],
+    "expected": ["a"]
+  },
+  {
+    "strings": ["abcdef", "fedcba", "abcefd", "aefbcd", "efadbc", "effffffffffffbcda", "eeeeeffffffbbbbbaaaaaccccdddd", "**************abdcef************"],
+    "expected": ["a", "b", "c", "d", "e", "f"]
+  },
+  {
+    "strings": ["ab&cdef!", "f!ed&cba", "a&bce!d", "ae&fb!cd", "efa&!dbc", "eff!&fff&fffffffbcda", "eeee!efff&fffbbbbbaaaaaccccdddd", "*******!***&****abdcef************", "*******!***&****a***********f*", "*******!***&****b***********c*"],
+    "expected": ["&", "!"]
+  },
+  {
+    "strings": ["*abcd", "def*", "******d*****"],
+    "expected": ["*", "d"]
+  },
+  {
+    "strings": ["*abc!d", "de!f*", "**!!!****d*****"],
+    "expected": ["*", "!", "d"]
+  }
+]
